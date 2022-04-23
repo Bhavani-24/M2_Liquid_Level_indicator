@@ -13,7 +13,6 @@ A water level indicator is a system that relays information back to a control pa
 # Swot Analysis
 
 ## Strengths
-
 1. conservation of water resource
 2. Manual effort reduction
 
