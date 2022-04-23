@@ -14,8 +14,8 @@ A water level indicator is a system that relays information back to a control pa
 
 ## Strengths
 
-1.conservation of water resource
-2.Manual effort reduction
+1. conservation of water resource
+2. Manual effort reduction
 
 ## weakness
 
@@ -61,28 +61,3 @@ ID | Description | Status
 --- | ---------- | ------
 LLR1 | if low level switch open before uplevel the water won't flow | Implemented
 LLR2 | the system works without errors | Implemented
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
