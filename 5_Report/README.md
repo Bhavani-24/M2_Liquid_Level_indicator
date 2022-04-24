@@ -22,6 +22,9 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 > * Resistor - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element
 > * Switch - Switches are used to turn ON/OFF devices and to connect different parts of a circuit.
 
+## Detail Requirement
+
+
 ## Project working
 
 1. The display is used in this circuit which displays the water level and potentiometer is used that provides the varying amount of resistance.
@@ -50,6 +53,20 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 
 # Test Plan and Output
 
+## High level test plan
+
+Test ID | Description | Exp Input | Exp Output | Actual Output | Status
+------- | ----------- | --------- | ---------- | ------------- | ------
+H_01 | Display Level Of Water | NA | 0L - 3000L | 700L | Pass
+H_02 | LED Glows when both Switches Open | NA | LED Glows | LED Glows | Pass
+H_03 | LED OFF when both Switches Closed | NA | LED OFF | LED OFF | Pass
+
+## Low level test plan
+
+Test ID | Description | Exp Input | Exp Output | Actual Output | Status
+------- | ----------- | --------- | ---------- | ------------- | ------
+L_01 | LED Glows when UCC only open | NA | LED Glows | LED Glows | Pass
+L_02 | Level of water varies from 0L - 3000L | NA | varies from 0L - 3000L | varies from 0L-3000L | Pass
 
 
 
