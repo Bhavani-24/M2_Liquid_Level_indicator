@@ -24,6 +24,9 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 
 ## Project working
 
+1. The display is used in this circuit which displays the water level and potentiometer is used that provides the varying amount of resistance.
+2. The source code this project is available and after running the code, the .hex file and .elf file is created.
+3. Build the circuit according to the below diagram
 
 ## Applications
 ## Block Diagram
