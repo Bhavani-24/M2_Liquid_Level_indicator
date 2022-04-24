@@ -31,6 +31,55 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 4. In simulIDE click on mcu and click on load the firmware, and select .hex file
 5. Finally the circuit works
 6. The results are seen in the display.
+
 ## Applications
+
+1.Can be used in factories
+2. commercial complexes
+3. apartments
+4. home
+5. Fuel tank level gauging
+
 ## Block Diagram
+
+![image](https://user-images.githubusercontent.com/104186419/164954135-d4ed829a-ff37-46cd-a09f-a6e1f86158ca.png)
+
 ## Circuit Diagram
+
+![image](https://user-images.githubusercontent.com/104186419/164954248-b8d33b4c-1bb3-4bbd-9127-a1b620118572.png)
+
+# Test Plan and Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
