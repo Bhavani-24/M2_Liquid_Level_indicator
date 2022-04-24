@@ -27,7 +27,10 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 1. The display is used in this circuit which displays the water level and potentiometer is used that provides the varying amount of resistance.
 2. The source code this project is available and after running the code, the .hex file and .elf file is created.
 3. Build the circuit according to the below diagram
-
+![image](https://user-images.githubusercontent.com/104186419/164953982-b7b48408-5769-42d3-b8dd-bc2a727e6357.png)
+4. In simulIDE click on mcu and click on load the firmware, and select .hex file
+5. Finally the circuit works
+6. The results are seen in the display.
 ## Applications
 ## Block Diagram
 ## Circuit Diagram
