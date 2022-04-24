@@ -51,7 +51,7 @@ LLR2 | the system works without errors | Implemented
 
 ## Applications
 
-1.Can be used in factories
+1. Can be used in factories
 2. commercial complexes
 3. apartments
 4. home
