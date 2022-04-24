@@ -24,6 +24,20 @@ Water is a vital but scarce natural resource. To prevent water wastage, this wat
 
 ## Detail Requirement
 
+## High level requirements
+
+ID | Description | Status
+----|----------- |-------
+HLR1 | display level | Implemented
+HLR2 | flow water when level low | Implemented
+HLR3 | stop water flow when level is reached | Implemented
+
+## Low level requirements
+
+ID | Description | Status
+--- | ---------- | ------
+LLR1 | if low level switch open before uplevel the water won't flow | Implemented
+LLR2 | the system works without errors | Implemented
 
 ## Project working
 
